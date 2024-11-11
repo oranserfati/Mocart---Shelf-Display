@@ -1,4 +1,4 @@
-# Mocart Shelf Display
+## Mocart Shelf Display
  Home assignment for mocart Unity developer application
 
 # How to start the project
@@ -23,9 +23,7 @@ http://localhost:8000
 
 The Unity WebGL build should now load in the browser.
 
-# External Libraries
-LeanTwean - For ui animation
-Package link: https://assetstore.unity.com/packages/tools/animation/leantween-3595
+
 
 # Project Overview
 This project is a modular, event-driven Unity application designed to handle product fetching, UI interactions, and camera controls. Each component is responsible for a specific function, following object-oriented principles to keep the code modular, reusable, and easy to maintain.
@@ -52,3 +50,9 @@ User interaction and feedback are handled by various UI components:
 Each component adheres to the Single Responsibility Principle, focusing on a specific functionality:
 - **Modularity**: Components are designed independently, making the system easy to maintain and extend.
 - **Reusability**: Each class can be reused or extended without impacting other parts of the system.
+
+
+
+# External Libraries
+LeanTwean - For ui animation
+Package link: https://assetstore.unity.com/packages/tools/animation/leantween-3595
