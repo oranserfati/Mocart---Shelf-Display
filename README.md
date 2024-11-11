@@ -1,7 +1,7 @@
-## Mocart Shelf Display
+# Mocart Shelf Display
  Home assignment for mocart Unity developer application
 
-# How to start the project
+## How to start the project
 Open a terminal or command prompt.
 Navigate to the Builds folder of this repository:
 
@@ -53,6 +53,6 @@ Each component adheres to the Single Responsibility Principle, focusing on a spe
 
 
 
-# External Libraries
+## External Libraries
 LeanTwean - For ui animation
 Package link: https://assetstore.unity.com/packages/tools/animation/leantween-3595
